@@ -8,4 +8,5 @@ A social Networking site for developers built using
   <li>mongoose as ODM</li>
   <li>mongodb as database</li>
   <li>github api</li>
+  <li>postman for testing apis</li>
 </ul>
